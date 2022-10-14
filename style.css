@@ -1,0 +1,136 @@
+body {
+	background: grey;
+}
+
+p{
+	margin-top: 0px;
+	font-family: sans-serif;
+}
+
+a{
+	font-family: sans-serif;
+}
+
+h2{
+	font-family: sans-serif;
+}
+
+h1{
+	font-family:sans-serif; 
+}
+
+#menu{
+	background-color: aliceblue;
+	margin : 0px 0px 10px 10px;
+}
+
+#wrap{
+	background:white;
+	width: 1000px;
+	overflow: hidden;	
+	margin: auto;
+}
+
+#header{
+	background:#1c1c1c;
+	width: 1000px;
+	height: 100px
+}
+
+#inner{
+	width: 700px;
+	height: 100px;
+	text-align: center;
+	float: right;
+	color: white;
+	font-family: arial;
+	font-size: 30px;
+	padding-top: 20px;
+}
+
+
+#logo{
+	width: 300px;
+	height: 100px;
+	float: left;
+}
+
+#content{
+	width: 1000px;
+	padding: 30px;
+	position: relative;
+	margin-top: 20px;
+	overflow: hidden;
+	height: auto;
+	background-color: aliceblue;
+}
+
+.isicontent{
+	width: 98%;
+	height: 200px;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+
+.gambardepan{
+	float: left;
+	height: 140px;
+	width: 150px;
+	margin-right: 5px;
+	margin-top: 3px;
+	padding: 1px;
+}
+
+.isicontent h2{
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 4px;
+	margin-bottom: 3px;
+}
+
+.isicontent a{
+	text-decoration: none;
+}
+
+.isicontent a:hover{
+	color: red;
+}
+
+#content .kiri{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 125px;
+
+}
+
+#content .kanan{
+	width: 200px;
+	height: 200px;
+	float: right;
+	margin-right: 125px;
+}
+
+#isi{
+	width: 1000px;
+	margin: 0px;
+	height: 1000px;
+}
+
+#isi .left {
+	width: 500px;
+	height: 250px;
+	float: left;
+	text-align: left;
+}
+
+#isi .right{
+	width: 500px;
+	height: 250px;
+	float: right;
+	text-align: left;
+}
+
+#gub{
+	text-align: center;
+}
